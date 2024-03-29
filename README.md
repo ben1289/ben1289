@@ -5,7 +5,7 @@
 - 📫 How to reach me ben_1289@163.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=ben1289&show_icons=true" alt="" width="50%" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben1289&layout=compact" alt="" width="37.5%" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ben1289&layout=compact" alt="" width="38%" align="right" />
 
 <!---
 ben1289/ben1289 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
